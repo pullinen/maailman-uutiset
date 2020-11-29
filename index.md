@@ -7,11 +7,11 @@
 
 Belgian kuningas Albert IV on myöntänyt Orvalin sienikapinan kukistaneelle komentaja Silas Bernheimille ritarin arvon etäyhteyden yli järjestetyssä seremoniassa 28.12. Myös Yliplanetaarinen liittouma on ilmoittanut palkitsevansa Bernheimin ensimmäistä kertaa myönnettävillä "Planeetan avaimilla", kun tämä palaa Maan pinnalle alkuvuodesta 2122.
 
-Sienikapinassa kuoli yli 12 000 pioneeria, joista suurin osa menehtyi taistelussa kaupungin hallinnasta ja kapinallisten viime tekonaan laukaisemassa hermokaasuiskussa Orvalin keskustaan. Menehtyneiden joukossa ovat 2000 pääosin belgialaista sotilasta, jotka kaatuivat vapauttaessaan kaupunkia kapinallisilta.
+Sienikapinan aikana kuoli yli 12 000 pioneeria, joista osa menehtyi taistelussa kaupungin hallinnasta ja osa mystiseen sieni-infektioon. Menehtyneiden joukossa ovat 2000 pääosin belgialaista sotilasta, jotka kaatuivat vapauttaessaan kaupunkia kapinallisilta.
 
-Merkittävässä roolissa oli myös liittouman karhukaisjoukkue Alfa, jonka ensimmäinen tehtävä johti viisihenkisen joukkueen keskelle sisällissotaa. Karhukaiset avustivat Bernheimin joukkoja, ja komentajan omien sanojen mukaan kaupunki olisi edelleen kapinallisten hallussa ilman karhukaisten apua. Joukkue Alfan jäsenet Järvinen ja Richardson kaatuivat taistelussa, selvinneet Beam, Farud ja Grosso palasivat Maahan juuri ennen joulua.
+Merkittävässä roolissa oli myös liittouman karhukaisjoukkue Alfa, jonka ensimmäinen tehtävä johti viisihenkisen joukkueen keskelle taistelua. Karhukaiset avustivat Bernheimin joukkoja, ja komentajan omien sanojen mukaan kaupunki olisi edelleen kapinallisten hallussa ilman liittouman apua. Joukkue Alfan jäsenet Järvinen ja Richardson kaatuivat taistelussa, selvinneet Beam, Farud ja Grosso palasivat Maahan juuri ennen joulua.
 
-Pysäyttävän videokoosteen kapinallisten hirmuteoista kuvannut työläisten oikeuksien puolestapuhuja Scruffy Stallone kaatui myös Orvalin taistelussa. Video on katsottavissa verkkosivustollamme. Varoitus: sisältö saattaa järkyttää herkimpiä lukijoitamme.
+Pysäyttävän videokoosteen kaupungin vapautustaistelusta kuvannut työläisten oikeuksien puolestapuhuja Scruffy Stallone kaatui myös Orvalin taistelussa. Video on katsottavissa verkkosivustollamme. Varoitus: sisältö saattaa järkyttää herkimpiä lukijoitamme.
 
 Kapinan taustalla olivat kommunistiagitaattori Robin Daugherty sekä tuntematon joukkohysteriaa aiheuttava sieni-infektio. Liittouman edustajat eivät toistaiseksi ole kommentoineet huhuja sienen maan ulkopuolisesta alkuperästä.
 
@@ -52,7 +52,7 @@ Hyppymoottori             | $2000 | Edistynyt ionisuihkuversio [perinteisestä h
 
 ## Liittouman tiedote: varovasti nolla geessä
 
-Painovoimattomassa tilassa, eli 0g:ssä, nopeuden muutos edellyttää jotain ulkoista tekijää. Esimerkiksi seiniä pitkin voi "kiipeillä" tai suihkumoottorilla voi edetä haluamaansa suuntaan. Hankalissa kiipeily- tai lentelytilanteissa tarvitaan Athletics- tai Piloting-heittoja. Jos painottomassa tilassa yrittää tehdä jotain fyysistä, kuten ampua, tuplaykköset tarkoittaa, että hahmo alkaa keijua hallitsemattomasti ollen sekä Distracted että Vulnerable, kunnes saa tilansa vakautettua Agility-heitolla. Tilaa ei voi vakauttaa ilman ulkoisia tekijöitä.
+Painovoimattomassa tilassa, eli 0g:ssä, nopeuden muutos edellyttää jotain ulkoista tekijää. Esimerkiksi seiniä pitkin voi "kiipeillä" tai suihkumoottorilla voi edetä haluamaansa suuntaan. Hankalissa kiipeily- tai lentelytilanteissa tarvitaan Athletics- tai Piloting-heittoja. Jos painottomassa tilassa yrittää tehdä jotain fyysistä, kuten ampua, tuplaykköset tarkoittaa, että hahmo alkaa keijua hallitsemattomasti ollen sekä Distracted että Vulnerable, kunnes saa tilansa vakautettua Agility-heitolla (tai muulla tilanteeseen soveltuvalla heitolla). Tilaa ei voi vakauttaa ilman ulkoisia tekijöitä.
 
 Paineettomassa tilassa kannattaa pitää yllä ehjää avaruuspukua. Jos avaruuspukua ei ole, tai se puhkeaa, heitetään joka kierroksella (noin 6 sekunnin välein) Vigor-heitto, jonka epäonnistuminen johtaa Woundiin. Avaruuspuku puhkeaa esimerkiksi, jos hahmoa vahingoitetaan luodilla tai terävällä esineellä. Puhjenneen avaruuspuvun voi paikata avaruuslaastarilla, jota käyttäessä heitetään Healing-heitto. Healing-heiton onnistuessa avaruuslaastari palauttaa normaalin paineen pukuun, epäonnistuessa taas ilma jää ohueksi. Tuplaykkoset tarkoittaa, ettei avaruuslaastari paranna tilannetta.
 
@@ -60,9 +60,9 @@ Ohuessa ilmassa voi hengittää, mutta pitkä altistus vie tajun. Hahmo heittä�
 
 ## Marsin Hernandez taas myrskyn silmässä
 
-Marsin siirtokunta-aseman ympärillä kuohui viimeksi lokakuussa, kun Texasin senaatti ilmoitti, että Ainoan Tähden valtiot eivät suostu luovuttamaan siirtokuntaa Yliplanetaariselle liittoumalle. Muut 44 Pohjois-Amerikan Yhdysvaltojen valtiota olivat jo luopuneet valtauksistaan, kuten Nuukin sopimukseen kuului, ja Texasin mielenmuutos asetti kyseeseen muun muassa sopimukseen kuuluneet tuontitullien poistot.
+Marsin siirtokunta-aseman ympärillä kuohui viimeksi lokakuussa, kun Texasin senaatti ilmoitti, että Ainoan Tähden valtiot eivät suostu luovuttamaan siirtokuntaa Yliplanetaariselle liittoumalle. Muut 44 Pohjois-Amerikan Yhdysvaltojen valtiota olivat jo luopuneet valtauksistaan, kuten Nuukin sopimukseen kuului, ja Texasin mielenmuutos asetti vaaraan muun muassa sopimukseen kuuluneet tuontitullien poistot.
 
-Joulunvietosta palannut Marsin kuvernööri Hernandez kertoi tänä aamuna, että Marsilla itsellään ei ole tarvetta saati halua kuulua liittoumaan, ja että siirtokunta on jo käytännössä itsenäinen. Viittaus itsenäisyyteen suututti myös Ainoan Tähden edustajia: Oklahoman ja Arkansasin kuvernöörit ovat jo tuominneet Hernandezin provokaation, ja itse Texasin odotetaan asettuvan samalle kannalle myöhemmin tänään.
+Joulunvietosta palannut Marsin kuvernööri Hernandez kertoi aikaisin tänä aamuna, että Marsilla itsellään ei ole tarvetta saati halua kuulua liittoumaan, ja että siirtokunta on jo käytännössä itsenäinen. Viittaus itsenäisyyteen suututti myös Ainoan Tähden edustajia: Oklahoman ja Arkansasin kuvernöörit ovat jo tuominneet Hernandezin provokaation, ja itse Texasin odotetaan asettuvan samalle kannalle myöhemmin tänään.
 
 Kerromme lisää tarinan kehittyessä.
 
@@ -96,4 +96,4 @@ Table: Kranaatteja saa sekä käsikranaatteina, jolloin kantama on 5/10/20, ett�
 
 ## Avaruusrosvous lisääntynyt hälyttävästi vuoden viimeisellä neljänneksellä
 
-Rikollisille päätyvä osuus planeetan ulkopuolelta hankituista resursseista on noin kolminkertaistunut viime vuotisesta, kertoo Tanjinin yliopiston 18 rahtiyrityksen logistiikkaa viimeiset 3 vuotta seurannut tutkimus. Viimeisen vuosineljänneksen aikana esimerkiksi 3% harvinaisista maametalleista, 4% fuusiopolttoaineista ja hätkähdyttävät 12% kullasta päätyi avaruusrosvojen käsiin matkalla siirtokunnista Maahan. Yliplanetaarisen liittouman pääsihteerin toimiston tiedonannon mukaan avaruusrosvouksen vähentäminen tuleekin olemaan yksi liittouman pääprioriteeteista vuonna 2122.
+Rikollisille päätyvä osuus planeetan ulkopuolelta hankituista resursseista on noin kolminkertaistunut viime vuotisesta, kertoo Tanjinin yliopiston tutkimus. Viimeisen vuosineljänneksen aikana esimerkiksi 3% harvinaisista maametalleista, 4% fuusiopolttoaineista ja hätkähdyttävät 12% kullasta päätyi avaruusrosvojen käsiin matkalla siirtokunnista Maahan. Yliplanetaarisen liittouman pääsihteerin toimiston tiedonannon mukaan avaruusrosvouksen vähentäminen tuleekin olemaan yksi liittouman pääprioriteeteista vuonna 2122.
