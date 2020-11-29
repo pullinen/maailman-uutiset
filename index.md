@@ -21,7 +21,7 @@ Karhukaisia tarvitaan taas. Ensimmäisestä tehtävästä selvinneet hahmot saav
 
 Kaikki saavat myös tehdä uuden hahmon halutessaan, ja osan onkin pakko näin tehdä. Tässä noudatetaan samoja sääntöjä kuin aiemminkin, ja tässäkin tapauksessa käytettävissä on $4000 budjetti plus hahmon omat säästöt, tyypillisesti $500. Myös uudet hahmot pääsevät nauttimaan samoista koulutus- ja parantelumahdollisuuksista kuin veteraanikarhukaiset, eli saavat yhden Advancementin.
 
-Liittouma on Orvalin tehtävän aikana parantanut hankintaorganisaatiotaan ja pystyy nyt tarjoamaan konsulteilleen uudempaa aseteknologiaa sopivasti subventoituun hintaan.
+Liittouma on Orvalin tehtävän aikana parantanut hankintaorganisaatiotaan ja pystyy nyt tarjoamaan konsulteilleen uudempaa aseteknologiaa sopivasti subventoituun hintaan. [Edellisen tehtävänannon](https://pullinen.github.io/valomuurin-tuolla-puolen/) tavarat ovat luonnollisesti myös hankittavissa.
 
 Käämiaseet              | Kantama   | Vahinko | AP | ROF | Lipaskoko | Min Str | Paino | Hinta
 :-----------------------|:---------:|:-------:|:--:|:---:|:---------:|:-------:|:-----:|-----:
